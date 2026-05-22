@@ -2,8 +2,15 @@
 
 <!-- Animated gradient header -->
 <a href="https://github.com/platret">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hey%2C%20I'm%20Alex%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Z%C3%BCrich%2C%20Switzerland&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hey%2C%20I'm%20Alex&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Z%C3%BCrich%2C%20Switzerland&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 </a>
+
+<!-- Big animated wave + name -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="42" align="center"/>
+  &nbsp;Welcome to my corner of GitHub&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" height="38" align="center"/>
+</h1>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -22,7 +29,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="28"/> &nbsp;About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="28" align="center"/> &nbsp;About me
 
 I'm **Alex**, a 17-year-old apprentice software developer from **Zürich, Switzerland**.
 Currently I split my time between building real projects at my apprenticeship and studying at **BZZ Horgen** — frontend or backend, doesn't matter, if it ships I'm in.
@@ -31,37 +38,47 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <table>
   <tr>
-    <td>🎯</td><td><b>Focus</b></td><td>Full-stack web development</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="22" align="center"/></td>
+    <td><b>Focus</b></td>
+    <td>Full-stack web development</td>
   </tr>
   <tr>
-    <td>🌱</td><td><b>Currently learning</b></td><td>Advanced TypeScript &middot; system design &middot; DevOps</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" height="22" align="center"/></td>
+    <td><b>Currently learning</b></td>
+    <td>Advanced TypeScript &middot; system design &middot; DevOps</td>
   </tr>
   <tr>
-    <td>🏆</td><td><b>Recent win</b></td><td><b>Regional ICT Championships 2026</b> &mdash; 🥇 4th in Zürich &middot; 🇨🇭 11th in Switzerland</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" height="22" align="center"/></td>
+    <td><b>Recent win</b></td>
+    <td><b>Regional ICT Championships 2026</b> &mdash; 4th in Zürich &middot; 11th in Switzerland 🇨🇭</td>
   </tr>
   <tr>
-    <td>💬</td><td><b>Ask me about</b></td><td>TypeScript, React, building things from scratch</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" height="22" align="center"/></td>
+    <td><b>Ask me about</b></td>
+    <td>TypeScript, React, building things from scratch</td>
   </tr>
   <tr>
-    <td>⚡</td><td><b>Fun fact</b></td><td>I love when a feature works on the first try (it rarely does)</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" height="22" align="center"/></td>
+    <td><b>Fun fact</b></td>
+    <td>I love when a feature works on the first try (it rarely does)</td>
   </tr>
 </table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" height="26"/> &nbsp;Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" height="28" align="center"/> &nbsp;Achievements
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" height="56"/><br/>
       <b>4th place</b><br/>
       <sub>Regional ICT Championships 2026 &middot; Zürich</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" height="56"/><br/>
       <b>11th place</b><br/>
       <sub>Regional ICT Championships 2026 &middot; Switzerland 🇨🇭</sub>
     </td>
@@ -72,11 +89,11 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="26"/> &nbsp;Tech I work with
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="28" align="center"/> &nbsp;Tech I work with
 
 <div align="center">
 
-#### 🧠 Languages
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" height="22" align="center"/> &nbsp;Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -87,7 +104,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### 🎨 Frontend
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" height="22" align="center"/> &nbsp;Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -98,7 +115,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### ⚙️ Backend & Runtimes
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" align="center"/> &nbsp;Backend & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -106,14 +123,14 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### 🗄️ Databases
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" height="22" align="center"/> &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-#### 🧰 Tools & DevOps
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" height="22" align="center"/> &nbsp;Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -129,17 +146,34 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="26"/> &nbsp;What I'm up to
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="28" align="center"/> &nbsp;What I'm up to
 
-- 🔭 &nbsp; Building projects across **frontend and backend** as part of my apprenticeship
-- 🌱 &nbsp; Going deeper on **web development**, **databases**, and writing cleaner, sharper code
-- 🎓 &nbsp; Studying at **BZZ Horgen** alongside the apprenticeship
-- 🏆 &nbsp; Recently placed **4th in Zürich / 11th in Switzerland** at the **Regional ICT Championships 2026**
-- 💡 &nbsp; Always open to interesting collaborations and side-quests
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" height="22" align="center"/></td>
+    <td>Building projects across <b>frontend and backend</b> as part of my apprenticeship</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" height="22" align="center"/></td>
+    <td>Going deeper on <b>web development</b>, <b>databases</b>, and writing cleaner, sharper code</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" height="22" align="center"/></td>
+    <td>Studying at <b>BZZ Horgen</b> alongside the apprenticeship</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" height="22" align="center"/></td>
+    <td>Recently placed <b>4th in Zürich / 11th in Switzerland</b> at the <b>Regional ICT Championships 2026</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" height="22" align="center"/></td>
+    <td>Always open to interesting collaborations and side-quests</td>
+  </tr>
+</table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" height="26"/> &nbsp;Let's connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" height="28" align="center"/> &nbsp;Let's connect
 
 <div align="center">
 
@@ -157,7 +191,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" height="26"/> &nbsp;Favorite quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" height="28" align="center"/> &nbsp;Favorite quote
 
 <div align="center">
 
@@ -180,5 +214,5 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
 </div>
