@@ -61,7 +61,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
       <sub>Regional ICT Championships 2026 &middot; Zürich</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flag%20Switzerland.png" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" height="40"/><br/>
       <b>11th place</b><br/>
       <sub>Regional ICT Championships 2026 &middot; Switzerland 🇨🇭</sub>
     </td>
@@ -124,41 +124,6 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" height="26"/> &nbsp;GitHub in numbers
-
-<div align="center">
-
-<a href="https://github.com/ia24b-platreta">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ia24b-platreta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22C55E&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-</a>
-<a href="https://github.com/ia24b-platreta">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia24b-platreta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="top langs"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ia24b-platreta&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22C55E&currStreakLabel=7C3AED&date_format=j%20M%5B%20Y%5D" alt="streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia24b-platreta&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=22C55E&point=ffffff&area=true&area_color=7C3AED" width="98%" alt="activity graph"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ia24b-platreta&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
-</a>
-
-<sub><i>Stats sourced from <a href="https://github.com/ia24b-platreta">@ia24b-platreta</a> &mdash; my apprenticeship account, where most of my code lives.</i></sub>
 
 </div>
 
