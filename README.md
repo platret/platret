@@ -22,7 +22,7 @@
 
 <br/>
 
-## <picture><source srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" media="(prefers-color-scheme: dark)" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" height="28"/></picture> &nbsp;About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="28"/> &nbsp;About me
 
 I'm **Alex**, a 17-year-old apprentice software developer from **Zürich, Switzerland**.
 Currently I split my time between building real projects at my apprenticeship and studying at **BZZ Horgen** — frontend or backend, doesn't matter, if it ships I'm in.
@@ -129,7 +129,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Bulb.png" height="26"/> &nbsp;What I'm up to
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="26"/> &nbsp;What I'm up to
 
 - 🔭 &nbsp; Building projects across **frontend and backend** as part of my apprenticeship
 - 🌱 &nbsp; Going deeper on **web development**, **databases**, and writing cleaner, sharper code
@@ -139,7 +139,7 @@ I care about clean code, fast feedback loops, and shipping things that actually 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Speech%20Balloon.png" height="26"/> &nbsp;Let's connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" height="26"/> &nbsp;Let's connect
 
 <div align="center">
 
