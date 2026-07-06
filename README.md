@@ -83,6 +83,13 @@ I care about clean code, fast feedback loops, and shipping things that actually 
       <sub>Regional ICT Championships 2026 &middot; Switzerland 🇨🇭</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" height="56"/><br/>
+      <b>1st place</b><br/>
+      <sub>SkillsBattle 2026 &middot; Application Development</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
