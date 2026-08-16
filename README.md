@@ -31,7 +31,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="28" align="center"/> &nbsp;About me
 
-I'm **Alex**, a 17-year-old apprentice software developer from **Zürich, Switzerland**.
+I'm **Alex**, a 18-year-old apprentice software developer from **Zürich, Switzerland**.
 Currently I split my time between building real projects at my apprenticeship and studying at **BZZ Horgen** — frontend or backend, doesn't matter, if it ships I'm in.
 
 I care about clean code, fast feedback loops, and shipping things that actually get used.
